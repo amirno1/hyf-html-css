@@ -1,0 +1,189 @@
+
+h1{
+  text-align:center;
+  font-family:fantasy,sans-serif;
+  color:white;
+  background-color:black;
+}
+#all{
+  color:green;
+}
+h2{
+ color:khaki;
+ font-weight:bold;
+ background-color:rgb(4,100,100);
+ text-align:center;
+  border-radius: 70px;
+}
+#head{
+  width:83%;
+  text-align:center;
+  position:relative;
+  left:120px;
+}
+.context{
+  color:black;
+  font-weight:bold;
+   font-family:cursive,sans-serif; 
+}
+.iran{
+  color:red;
+}
+body{
+  background-image: url("https://starkaerospace.com/wp-content/uploads/2014/06/background-world-map-1.gif"); width
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  
+}
+#iran-flag{
+  position:fixed;
+  left:15px;
+  top:105px;
+}
+#iran-flag2{
+  float:right;
+  margin-right:10px;
+  position:fixed;
+  left:1400px;
+  top:105px;
+}
+.remarkable{
+  font-size:2em;
+  font-weight:bold;
+}
+#food-pic{
+  float:left;
+  margin:40px;
+  border-radius: 30px;
+}
+#food-list{
+  position:relative;
+  top:35px;
+  font-size:20px;
+  line-height:1.5;
+}
+.page{
+  width:50%;
+  position:absolute;
+  left:350px;
+}
+#hospitality{
+  clear:left;
+}
+#persian-hospitality{
+  float:right;
+  margin:30px;
+  width:130px;
+  border-radius:20px;
+}
+.nature{
+  width:300px;
+  height:200px;
+  margin:10px;
+  border-radius:15px;
+  border:dotted;
+  border-color:rgb(4,100,100);
+}
+a:hover{
+  color:yellow;
+}
+#damavand{
+  color:purple;
+  font-size:20px;
+  position:absolute;
+  top:980px;
+  left:30px;
+  font-weight:bold;
+}
+#qeshm{
+  color:blue;
+  font-size:20px;
+  position:absolute;
+  top:980px;
+  left:370px;
+  font-weight:bold;
+}
+#masule{
+  color:black;
+  font-size:20px;
+  position:absolute;
+  top:1220px;
+  left:30px;
+  font-weight:bold;
+}
+#perspolis{
+  color:red;
+  font-size:20px;
+  position:absolute;
+  top:1220px;
+  left:370px;
+  font-weight:bold;
+}
+#football{
+  border-collapse:collapse;
+  text-align:center;
+  font-weight:bold;
+  width:50%;
+  position:relative;
+  left:200px;
+}
+#football td, #football th{
+  border:2px solid white;
+  padding:8px;
+
+}
+#football td {
+  background-color:rgb(4,100,100);
+}
+#football th {
+  background-color:brown;
+}
+#football td:hover{
+  background-color:white;
+}
+#jump{
+  float:left;
+  width:20%;
+}
+#h-jump{
+  font-family: sans-serif;
+  font-weight: bold;
+  background-color:rgb(300,2,50);
+  border-radius:5px;
+  position:fixed;
+  top:160px;
+  line-height:3;
+  text-align:center;
+}
+#important-links{
+  float:right;
+  width:22%;
+}
+#table-links td, #table-links th{
+  border-bottom:2px solid black;
+  font-family:sans-serif;
+  background-color:rgb(300,2,50);
+}
+#table-links td{
+  font-size:20px;
+}
+#table-links th{
+  font-size:22px
+}
+#last-words{
+  font-size:1.3em;
+  padding:10px;
+  color:khaki;
+  text-align:center;
+  margin-top:200px;
+  background-color:black;
+}
+#footer{
+  position:absolute;
+  top:2650px;
+  left:630px;
+}
+#email{
+  color:blue;
+}
