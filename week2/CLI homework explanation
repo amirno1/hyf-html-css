@@ -1,0 +1,27 @@
+Homework week 1 
+
+Step 1:
+
+To hide a file or folder we need to use this command = attrib +s +h (File directory) 
+To retrive a hidden file or folder = attrib -s -h (File directory)
+
+Step 2:
+
+To create multiple nested directories with only one mkdir command = mkdir -p foldername/foldername/foldername/...
+
+Step 3:
+
+After executing following codes :
+echo "test" > fun
+echo "another test" >> fun
+wc -c fun
+
+This is the resault : 18 fun
+
+Step 4:
+
+In order to get out put of "testanother test" i would use the echo like this:
+
+echo "testanother test" > fun
+cat fun
+testanother test
